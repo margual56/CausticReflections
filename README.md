@@ -9,3 +9,6 @@ Download processing from the [Processing webpage](https://processing.org/downloa
 
 ## Built app
 You can download the built version from the [app store](https://play.google.com/store/apps/details?id=processing.test.reflections).
+
+## License
+[GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
